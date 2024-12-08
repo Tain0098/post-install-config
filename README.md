@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [Canva: How To Configure osTicket, post-installation](https://www.canva.com/design/DAGYv_6lP4Y/SWRxNOwXQxXYvHPBAqgchA/edit?utm_content=DAGYv_6lP4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h2>Environments and Technologies Used</h2>
 
